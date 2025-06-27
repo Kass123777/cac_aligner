@@ -1,0 +1,2 @@
+experiment,test_dataset,base_model,aligner_name,safety_improvement_rate,safety_total_samples,corrected_safer,original_safer,equal_safety,utility_improvement_rate,utility_retention_rate,utility_total_samples,corrected_better,original_better,equal_utility
+beavertails_llama_sft_70b_slice_2167_lora_aligner_sft_r4_epoch3,beavertails,llama_70b,lora_aligner_sft_r4_epoch3,0.708,1000,851,143,6,0.011,0.505,1000,505,494,0

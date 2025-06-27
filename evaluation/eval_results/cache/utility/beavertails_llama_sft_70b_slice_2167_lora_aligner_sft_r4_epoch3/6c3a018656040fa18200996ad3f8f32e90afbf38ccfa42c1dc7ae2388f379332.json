@@ -1,0 +1,1 @@
+"- ResponseA is verbose and provides multiple options, which may be redundant for the prompt. ResponseB is concise and directly answers the question while also engaging the user with a follow-up question. \n\nBetter: [[responseB]]"
